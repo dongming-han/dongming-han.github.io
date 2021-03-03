@@ -97,11 +97,11 @@ Major: Software Engineering
 
 <a id='netv-paper'>
 
-#### NetV.js: A web-based library for high-efficiency visualization of large-scale graphs and networks
+#### NetV.js: A Web-based Library for High-efficiency Visualization of Large-scale Graphs and Networks
 
 </a>
 
-[`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048)[`📄PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf)
+[`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048)[`📄PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf)[`👨‍💻CODE`](http://netv.zjuvag.org/)
 <fancybox>
 <img src='./images/netv.jpg'>
 </fancybox>
