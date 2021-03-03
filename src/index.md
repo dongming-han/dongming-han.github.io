@@ -3,7 +3,7 @@
 lang: en
 # Site Keywords & Description
 keywords: Resume, Visualization
-description: It is Dongming Han's personal resume.
+# description: It is Dongming Han's personal resume.
 # Resume Title
 resume_title: Dongming Han's Resume
 # Job Applicant Name
@@ -12,8 +12,8 @@ name: Dongming Han
 contact:
     # URL
     - icon: fas fa-globe-europe
-      text: http://panjiacheng.site/
-      url: http://panjiacheng.site/
+      text: http://dongming-han.github.io/
+      url: http://dongming-han.github.io/
     # Email
     - icon: fas fa-envelope
       text: dongminghan@zju.edu.cn
@@ -23,16 +23,16 @@ contact:
     #   text: JackieAnxis
     #   url: https://github.com/JackieAnxis
     # Blog
-    - icon: fas fa-blog
-      text: Blog
-      url: http://panjiacheng.site/blog
+    # - icon: fas fa-blog
+    #   text: Blog
+    #   url: http://panjiacheng.site/blog
 ---
 
 {% raw %}
 <grid>
 <avatar><img src="./images/dongminghan.jpg"></avatar>
 
-<h1>Jiacheng Pan</h1>
+<h1>Dongming Han</h1>
 <center>
 <!-- <a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a> -->
 </center>
@@ -42,7 +42,8 @@ contact:
 
 <div class="btns">
 
-[`🌏 Homepage`](http://panjiacheng.site) [`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn)
+[`🌏 Homepage`](http://dongming-han.github.io/) [`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn)
+[`🔗 Resume`](./images/DongmingHan_resume.pdf)
 
  <!-- [`💻 Blog`](http://panjiacheng.site/blog) -->
 
@@ -99,7 +100,7 @@ Major: Software Engineering
 <img src='./images/netv.jpg'>
 </fancybox>
 
--   Authors:<u>**Dongming Han**</u>, Jiacheng Pan, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+-   Authors:<u>**Dongming Han**</u>, Jiacheng Pan, Xiaodong Zhao, Wei Chen
 -   Publication: Visual Informatics
 -   Keywords: `Large-scale Graph` `WebGL` `Graph Visualization`
 
