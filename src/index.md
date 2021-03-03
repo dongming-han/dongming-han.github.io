@@ -5,7 +5,7 @@ lang: en
 keywords: Resume, Visualization
 # description: It is Dongming Han's personal resume.
 # Resume Title
-resume_title: Dongming Han's Resume
+# resume_title: Dongming Han
 # Job Applicant Name
 name: Dongming Han
 # Contact
@@ -29,21 +29,23 @@ contact:
 ---
 
 {% raw %}
+
 <grid>
-<avatar><img src="./images/dongminghan.jpg"></avatar>
+<avatar>
+<img src="./images/dongminghan.jpg"/>
+</avatar>
 
 <h1>Dongming Han</h1>
-<center>
+<!-- <center> -->
 <!-- <a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a> -->
-</center>
-<br>
+<!-- </center> -->
+<!-- <br> -->
 </grid>
 {% endraw %}
 
 <div class="btns">
 
-[`🌏 Homepage`](http://dongming-han.github.io/) [`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn)
-[`🔗 Resume`](./images/DongmingHan_resume.pdf)
+[`🌏 Homepage`](http://dongming-han.github.io/) [`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn)[`🔗 Resume`](./images/DongmingHan_resume.pdf)
 
  <!-- [`💻 Blog`](http://panjiacheng.site/blog) -->
 
@@ -93,7 +95,11 @@ Major: Software Engineering
 
 ### 2021
 
+<a id='netv-paper'>
+
 #### NetV.js: A web-based library for high-efficiency visualization of large-scale graphs and networks
+
+</a>
 
 [`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048)[`📄PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf)
 <fancybox>
@@ -126,7 +132,11 @@ Major: Software Engineering
 
 --- -->
 
+<a id='inet'>
+
 #### iNet: Visual Analysis of Irregular Transition in Multivariate Dynamic Networks
+
+</a>
 
 <div class="btns">
 
@@ -144,7 +154,11 @@ Major: Software Engineering
 
 ---
 
+<a id='rcanalyzer'>
+
 #### RCAnalyzer: Visual Analytics of Rare Categories in Dynamic Networks
+
+</a>
 
 <div class="btns">
 
@@ -222,7 +236,11 @@ Major: Software Engineering
 
 ### 2018
 
+<a id="vaad">
+
 #### Visual Analysis for Anomaly Detection in Time-Series: A Survey
+
+</a>
 
 [`CRAD`](http://crad.ict.ac.cn/EN/abstract/abstract3761.shtml) [`📄 PDF`](http://crad.ict.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=3761)
 <fancybox>
