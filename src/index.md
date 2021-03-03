@@ -242,7 +242,7 @@ Major: Software Engineering
 
 </a>
 
-[`CRAD`](http://crad.ict.ac.cn/EN/abstract/abstract3761.shtml) [`📄 PDF`](http://crad.ict.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=3761)
+[`CRAD`](http://crad.ict.ac.cn/EN/abstract/abstract3761.shtml) [`📄 PDF`](./pdf/Visual%20Analysis%20for%20Anomaly%20Detection%20in%20Time-Series_%20A%20Survey.pdf)
 <fancybox>
 <img src='./images/survey.jpg'>
 </fancybox>
