@@ -224,7 +224,7 @@ Major: Software Engineering
 
 ---
 
-#### Visual Exploration of Topological Structure for Bitcoin Trading Network
+<!-- #### Visual Exploration of Topological Structure for Bitcoin Trading Network
 
 [`JOS`](http://www.jos.org.cn/1000-9825/5780.htm) [`📄 PDF`](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5780&journal_id=jos)
 
@@ -232,7 +232,7 @@ Major: Software Engineering
 -   Publication: Journal of Software (Chinese)
 -   Keywords: `Bitcoin Network` `Trading Pattern` `Topological Structure`
 
----
+--- -->
 
 ### 2018
 
