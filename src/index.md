@@ -45,7 +45,9 @@ contact:
 
 <div class="btns">
 
-[`🌏 Homepage`](http://dongming-han.github.io/) [`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn)[`🔗 Resume`](./images/DongmingHan_resume.pdf)
+<!-- [`🌏 Homepage`](http://dongming-han.github.io/)  -->
+
+[`✉️ dongminghan@zju.edu.cn`](mailto:dongminghan@zju.edu.cn) `📱 +86 18868113606` [`🔗 DongmingHan's Resume`](./images/DongmingHan_resume.pdf)
 
  <!-- [`💻 Blog`](http://panjiacheng.site/blog) -->
 
